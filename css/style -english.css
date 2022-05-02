@@ -1,0 +1,36 @@
+.head .bg .overlay .content .title-head h1 {
+    font-size: 30px;
+    font-family: title;
+    color: white;
+}
+.head .bg .overlay .content .top-icons2 ul li i span {
+    padding-left: 12px;
+    color: white;
+    font-family: light;
+}
+
+
+.table .container .all .content .ob .box .img {
+    margin-right: 25px;
+}
+
+.table .container .all .content .ob .comment .img img {
+    left: 0;
+    margin-right: 8px;
+}
+
+.last-sec .info .container .icons i span {
+    padding-left:11px ;
+}
+
+.head .bg .overlay .content .title-head h1 {
+    font-size: 60px;
+}
+
+
+.head .bg .overlay .content .boxes .box span.word:nth-child(2) {
+    font-size: 26px;
+    position: absolute;
+    bottom: 10%;
+    right: 13%;
+}
